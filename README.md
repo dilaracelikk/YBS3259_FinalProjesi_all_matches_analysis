@@ -3,7 +3,7 @@
 Bu proje, makine öğrenmesi algoritmaları kullanılarak futbol maç sonuçlarını analiz eden ve karar desteği üreten bir veri bilimi çalışmasıdır.
 
 ## GitHub Repository Bağlantısı
-(https://github.com/yusufpekince/YBS3259_FinalProje)
+(https://github.com/dilaracelikk/YBS3259_FinalProjesi_all_matches_analysis)
 
 ## Proje Klasör Yapısı
 * `data/`: Model eğitimi için kullanılan veri setleri
